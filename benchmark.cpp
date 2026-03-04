@@ -9,7 +9,7 @@
 void printhelpManual() 
 {
 	std::cout << "\n--------------------------------------------------------------------------------\n";
-	std::cout << "     C++ RUNTIME BENCHMARK TEST     ::     Diagnostic Tool by bootsareme\n";
+	std::cout << "     C++ RUNTIME BENCHMARK TEST     ::     Diagnostic Tool by VJZ Corp.\n";
 	std::cout << "--------------------------------------------------------------------------------\n\n";
 	std::cout << "This diagnostic tool will calculate your computer's execution speed. "
 					"It will perform a series of 5 tests in ascending difficulty and return "
